@@ -32,8 +32,9 @@
 }
 .col-2{
   float: left;
-  width: 68%;
+  width: 66%;
   background-color: #ccc;
+  margin-left: 2px;
 
 }
 .col-3{
