@@ -28,7 +28,7 @@
   float: left;
   width: 32%;
   background-color: #ccc;
-  margin: 8px;
+  margin: 5px;
 }
 .col-2{
   float: left;
@@ -41,5 +41,5 @@
 }
 
 .first {
-  margin-left: 0%;
+  margin-left: 2%;
 }
